@@ -12,4 +12,4 @@ I asked it if I was going to win the next Mega Millions jackpot, and received th
 ## Class
 *Codecademy/Pro, Front-End Engineer Path*
 
-JavaScript Syntax: Conditionals - learning how to use if, else if, switch and ternary syntax to control the flow of a JavaScript program.
+JavaScript Syntax, Part I: Conditionals - learning how to use if, else if, switch and ternary syntax to control the flow of a JavaScript program.
